@@ -1,0 +1,11 @@
+{
+    "name": "Cadema.Z1statemachine.Tests",
+    "references": [
+        "Cadema.Z1statemachine"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

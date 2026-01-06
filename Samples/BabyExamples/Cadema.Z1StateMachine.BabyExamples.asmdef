@@ -1,0 +1,22 @@
+{
+    "name": "Cadema.Z1StateMachine.BabyExamples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7f7d1af65c2641843945d409d28f2e20",
+        "GUID:1c8f9a7d7cd0f2c43a49e15fff3aafce",
+        "GUID:d7e45018a9105584d9ab240dfa9c2935",
+        "GUID:1484b0e0031640948b275b7a010461e0",
+        "GUID:ce522b6ed64c8be4c989a1d26d0e3275",
+        "GUID:dc960734dc080426fa6612f1c5fe95f3",
+        "GUID:014f43126129fae4399a1aa8aa4d3700"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

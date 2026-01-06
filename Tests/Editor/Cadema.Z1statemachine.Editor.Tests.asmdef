@@ -1,0 +1,14 @@
+{
+    "name": "Cadema.Z1statemachine.Editor.Tests",
+    "references": [
+        "Cadema.Z1statemachine.Editor",
+        "Cadema.Z1statemachine"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

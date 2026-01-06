@@ -1,0 +1,17 @@
+{
+    "name": "Cadema.Z1Studio.WhalesExamples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1484b0e0031640948b275b7a010461e0",
+        "GUID:1c8f9a7d7cd0f2c43a49e15fff3aafce"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

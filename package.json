@@ -1,0 +1,33 @@
+{
+  "name": "com.cadema.z1statemachine",
+  "displayName": "Z1 StateMachine",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "unityRelease": "2f1",
+  "description": "C# based modular state machine",
+  "author": {
+    "name": "Z1 Studio",
+    "url": "cadema.io",
+    "email": "camilo@cadema.io"
+  },
+
+    "samples": [
+        {
+            "displayName": "Baby Examples",
+            "description": "Contains all the script used for Respire Encore Baby (WITHOUT EXAMPLE SCENE!)",
+            "path": "Samples/BabyExamples"
+        },
+        {
+            "displayName": "Whales Examples",
+            "description": "Contains all the script used for Respire Encore Whales (WITHOUT EXAMPLE SCENE!)",
+            "path": "Samples/WhalesExamples"
+        },
+        {
+            "displayName": "XR Extension",
+            "description": "Contains script to extend the state machine for XR",
+            "path": "Samples/XRExtensions"
+        }
+    ]
+}
+
+

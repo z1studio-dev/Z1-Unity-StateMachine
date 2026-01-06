@@ -1,0 +1,18 @@
+{
+    "name": "Cadema.Z1statemachine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7f7d1af65c2641843945d409d28f2e20",
+        "GUID:20dd2a2b021957641b9b33ae95130a5e",
+        "GUID:1c8f9a7d7cd0f2c43a49e15fff3aafce"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

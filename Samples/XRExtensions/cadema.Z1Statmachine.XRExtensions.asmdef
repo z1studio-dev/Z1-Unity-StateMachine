@@ -1,0 +1,17 @@
+{
+    "name": "Cadema.Z1statemachine.XRExtensions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ce522b6ed64c8be4c989a1d26d0e3275",
+        "GUID:1484b0e0031640948b275b7a010461e0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

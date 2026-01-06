@@ -1,0 +1,10 @@
+{
+    "name": "Cadema.Z1statemachine.Editor",
+    "references": [
+      "Cadema.Z1statemachine"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
